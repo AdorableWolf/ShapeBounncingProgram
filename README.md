@@ -5,13 +5,13 @@ The application, as given, is a simple bouncing program designed to let differen
 
 The aim of this program is to familiarize myself and have hands-on experience with oriented programming principles of inheritance and polymorphism. 
 
-Overview of the program:
+###Overview of the program:
  
 Creating a shape: The user can create a new shape by clicking anywhere within the panel area of the program. The properties of the newly created shape are based on the current values saved in the appropriate UI fields (e.g. height, width border colour, fill colour and path). Once created, the shape will start moving.
  
 Selecting/deselecting shapes: A user can select a shape by clicking anywhere on the shape. A selected shape shows all its handles. The user can then change the path types / widths / heights /border colours / fill colours for all selected shapes by changing the current values with the help of the tools provided at the top of the application interface. (Note: The shape type itself cannot be modified once a shape has been created.) Clicking on a selected shape will deselect it.
    
-Tools in the Application:
+###Tools in the Application:
 
 Shape combo box: The ‘Shape’ combo box lets you select the shape type for the new shapes that get created when you click on the panel area.Clicking in the panel area to create a shape as described above will then create a shape of the selected type.  
 
